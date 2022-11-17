@@ -1,0 +1,4 @@
+*.exe
+*.json
+*.txt
+*/logs
